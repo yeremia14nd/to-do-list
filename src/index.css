@@ -11,3 +11,41 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.contact-form button {
+  box-sizing: border-box;
+  font-size: 16px;
+  padding: 5px;
+  border: 1px solid #bac6d3;
+  border-radius: 3px;
+  margin: 20px;
+  width: 70px;
+  cursor: pointer;
+}
+
+button {
+  box-sizing: border-box;   
+  font-size: 12px;
+  padding: 5px;
+  border: 1px solid #bac6d3;
+  border-radius: 3px;
+  margin: 5px;
+  width: 65px;
+  cursor: pointer;
+}
+
+input {
+  box-sizing: border-box;
+  background-color: #fff;
+  color: #8491a5;  
+  font-size: 16px;
+  width: 300px;
+  padding: 5px;
+  border: 1px solid #bac6d3;
+  border-radius: 3px;
+}
+
+ul, li {  
+  list-style-type: none;
+  padding-left: 0;
+}
